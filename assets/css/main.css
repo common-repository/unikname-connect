@@ -1,0 +1,319 @@
+@font-face {
+  font-family: "helvetica";
+  src: url("../fonts/Helvetica.ttf");
+  font-weight: bold;
+  font-style: normal;
+  font-display: block; }
+.the_champ_outer_login_container {
+  text-align: center;
+  margin-bottom: 0px;
+  margin-top: 5px;
+  min-width: 260px;
+  width: 260px !important;
+  font-size: 15px;
+  font-family: "helvetica"; }
+  .the_champ_outer_login_container.unikname_alignment_left {
+    margin-left: 0;
+    margin-right: auto; }
+  .the_champ_outer_login_container.unikname_alignment_right {
+    margin-left: auto;
+    margin-right: 0; }
+  .the_champ_outer_login_container.unikname_alignment_center {
+    margin-left: auto;
+    margin-right: auto; }
+  .the_champ_outer_login_container .the_champ_login_container ul.the_champ_login_ul li {
+    float: none; }
+    .the_champ_outer_login_container .the_champ_login_container ul.the_champ_login_ul li i.theChampLogin.theChampUniknameBackground.theChampUniknameLogin {
+      float: none;
+      display: block;
+      min-width: 100%;
+      width: 100%;
+      display: inline-flex;
+      height: 42px !important;
+      padding: 5px 0px !important; }
+      .the_champ_outer_login_container .the_champ_login_container ul.the_champ_login_ul li i.theChampLogin.theChampUniknameBackground.theChampUniknameLogin .theChampLoginSvg {
+        width: 45px;
+        height: 100%;
+        margin-left: 20px;
+        background: none;
+        background-repeat: no-repeat;
+        background-image: url(../images/icon-unikname.svg) !important; }
+        .the_champ_outer_login_container .the_champ_login_container ul.the_champ_login_ul li i.theChampLogin.theChampUniknameBackground.theChampUniknameLogin .theChampLoginSvg:after {
+          content: none; }
+      .the_champ_outer_login_container .the_champ_login_container ul.the_champ_login_ul li i.theChampLogin.theChampUniknameBackground.theChampUniknameLogin label.button_label {
+        color: #fff !important;
+        padding-left: 10px;
+        font-style: normal;
+        font-size: 15px !important;
+        text-align: center;
+        margin-top: auto;
+        margin-bottom: auto; }
+        .the_champ_outer_login_container .the_champ_login_container ul.the_champ_login_ul li i.theChampLogin.theChampUniknameBackground.theChampUniknameLogin label.button_label:hover {
+          cursor: pointer; }
+      .the_champ_outer_login_container .the_champ_login_container ul.the_champ_login_ul li i.theChampLogin.theChampUniknameBackground.theChampUniknameLogin:hover {
+        cursor: pointer; }
+  .the_champ_outer_login_container .the_champ_login_container.button_color_blue ul.the_champ_login_ul li i.theChampLogin.theChampUniknameBackground.theChampUniknameLogin {
+    background-color: #0f2852 !important; }
+  .the_champ_outer_login_container .the_champ_login_container.button_color_turquoise ul.the_champ_login_ul li i.theChampLogin.theChampUniknameBackground.theChampUniknameLogin {
+    background-color: #2b6bf3 !important; }
+  .the_champ_outer_login_container .the_champ_social_button_description {
+    font-size: 13px;
+    font-style: italic; }
+
+.theChampCommentingTabs ul {
+  float: none; }
+
+.super-socializer-linking-container table.form-table tbody tr {
+  border: 0px !important; }
+  .super-socializer-linking-container table.form-table tbody tr td {
+    border: 0px;
+    text-align: center;
+    padding: 0px !important; }
+    .super-socializer-linking-container table.form-table tbody tr td .the_champ_login_container .the_champ_login_ul {
+      float: none; }
+      .super-socializer-linking-container table.form-table tbody tr td .the_champ_login_container .the_champ_login_ul i.theChampLogin.theChampUniknameBackground.theChampUniknameLogin {
+        float: none;
+        display: block;
+        min-width: auto;
+        width: 250px;
+        display: inline-flex;
+        height: 45px !important;
+        padding: 10px 0px !important;
+        background-color: #0F2852;
+        border-radius: 15px; }
+        .super-socializer-linking-container table.form-table tbody tr td .the_champ_login_container .the_champ_login_ul i.theChampLogin.theChampUniknameBackground.theChampUniknameLogin .theChampLoginSvg {
+          width: 45px;
+          height: 100%;
+          margin-left: 25px;
+          background: none;
+          background-repeat: no-repeat;
+          background-image: url(../images/icon-unikname.svg) !important;
+          background-size: contain !important;
+          background-position: 10px !important; }
+          .super-socializer-linking-container table.form-table tbody tr td .the_champ_login_container .the_champ_login_ul i.theChampLogin.theChampUniknameBackground.theChampUniknameLogin .theChampLoginSvg:after {
+            content: none; }
+        .super-socializer-linking-container table.form-table tbody tr td .the_champ_login_container .the_champ_login_ul i.theChampLogin.theChampUniknameBackground.theChampUniknameLogin label.button_label {
+          color: #fff !important;
+          padding-left: 10px;
+          font-style: normal;
+          font-size: 15px !important;
+          text-align: center;
+          margin-top: auto;
+          margin-bottom: auto;
+          font-family: "helvetica";
+          line-height: 0;
+          -webkit-font-smoothing: auto; }
+          .super-socializer-linking-container table.form-table tbody tr td .the_champ_login_container .the_champ_login_ul i.theChampLogin.theChampUniknameBackground.theChampUniknameLogin label.button_label:hover {
+            cursor: pointer; }
+        .super-socializer-linking-container table.form-table tbody tr td .the_champ_login_container .the_champ_login_ul i.theChampLogin.theChampUniknameBackground.theChampUniknameLogin:hover {
+          cursor: pointer; }
+    .super-socializer-linking-container table.form-table tbody tr td p.sub-title {
+      font-family: "helvetica";
+      font-size: 13px;
+      font-style: italic; }
+
+body.wp-admin .stuffbox {
+  background-color: transparent;
+  background: transparent;
+  border: 0;
+  box-shadow: 0 0 black; }
+  body.wp-admin .stuffbox table.form-table tbody tr td .the_champ_social_login_title {
+    margin-top: 10px; }
+  body.wp-admin .stuffbox table.form-table tbody tr td .the_champ_login_container .the_champ_login_ul {
+    float: none;
+    margin-top: 20px;
+    margin-bottom: 0px; }
+    body.wp-admin .stuffbox table.form-table tbody tr td .the_champ_login_container .the_champ_login_ul.button-link-account {
+      margin-top: 5px; }
+    body.wp-admin .stuffbox table.form-table tbody tr td .the_champ_login_container .the_champ_login_ul i.theChampLogin.theChampUniknameBackground.theChampUniknameLogin {
+      height: 25px !important; }
+      body.wp-admin .stuffbox table.form-table tbody tr td .the_champ_login_container .the_champ_login_ul i.theChampLogin.theChampUniknameBackground.theChampUniknameLogin label.button_label {
+        font-family: "helvetica"; }
+  body.wp-admin .stuffbox table.form-table tbody tr td p.sub-title {
+    margin-top: 0px; }
+
+.waiel-style-or {
+  color: #D8D8D8; }
+  .waiel-style-or span {
+    display: block;
+    width: max-content;
+    margin: auto;
+    position: relative;
+    color: #737373;
+    font-family: "helvetica";
+    font-size: 14px; }
+    .waiel-style-or span:after {
+      content: "";
+      width: 110px;
+      height: 1px;
+      background-color: #737373;
+      position: absolute;
+      top: 11px;
+      left: 28px; }
+    .waiel-style-or span:before {
+      content: "";
+      width: 110px;
+      height: 1px;
+      background-color: #737373;
+      position: absolute;
+      top: 11px;
+      right: 28px; }
+
+body.login .waiel-style-or span:after {
+  top: 8px; }
+body.login .waiel-style-or span:before {
+  top: 8px; }
+
+form.woocommerce-checkout > .checkout__billing > * {
+  -webkit-box-flex: unset;
+  -ms-flex-positive: unset;
+  flex-grow: unset; }
+
+.disable-authentication-password .woocommerce-form input[name=username], .disable-authentication-password .woocommerce-form input[name=password], .disable-authentication-password #loginform input[name=username], .disable-authentication-password #loginform input[name=password] {
+  pointer-events: none;
+  background-color: #e8e8e8;
+  display: none; }
+  .disable-authentication-password .woocommerce-form input[name=username]:hover, .disable-authentication-password .woocommerce-form input[name=password]:hover, .disable-authentication-password #loginform input[name=username]:hover, .disable-authentication-password #loginform input[name=password]:hover {
+    cursor: pointer; }
+.disable-authentication-password .woocommerce-form input[type=submit], .disable-authentication-password #loginform input[type=submit] {
+  pointer-events: none; }
+.disable-authentication-password .woocommerce-form .woocommerce-form-row, .disable-authentication-password .woocommerce-form .form-row, .disable-authentication-password .woocommerce-form .woocommerce-LostPassword, .disable-authentication-password #loginform .woocommerce-form-row, .disable-authentication-password #loginform .form-row, .disable-authentication-password #loginform .woocommerce-LostPassword {
+  display: none; }
+.disable-authentication-password .waiel-style-or {
+  display: none; }
+
+.unik-name-popup-email .unikname-list-content-step {
+  margin: auto;
+  margin-bottom: 0px;
+  padding: 20px 20px; }
+  .unik-name-popup-email .unikname-list-content-step .unikname-item-step {
+    font-size: 22px;
+    text-align: center;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
+    opacity: 0; }
+    .unik-name-popup-email .unikname-list-content-step .unikname-item-step.active {
+      height: auto;
+      overflow: visible;
+      visibility: visible;
+      opacity: 1; }
+    .unik-name-popup-email .unikname-list-content-step .unikname-item-step img.email-logo {
+      height: 40px; }
+    .unik-name-popup-email .unikname-list-content-step .unikname-item-step h4 {
+      font-size: 22px;
+      margin-top: 18px;
+      margin-bottom: 20px;
+      text-transform: capitalize; }
+    .unik-name-popup-email .unikname-list-content-step .unikname-item-step h3 {
+      font-size: 20px;
+      margin-top: 18px;
+      margin-bottom: 5px;
+      margin-top: 5px; }
+    .unik-name-popup-email .unikname-list-content-step .unikname-item-step .description p {
+      font-size: 13px;
+      padding-bottom: 0px !important;
+      margin-bottom: 15px; }
+    .unik-name-popup-email .unikname-list-content-step .unikname-item-step .sub-description {
+      font-size: 12px;
+      padding-bottom: 0px !important;
+      margin-bottom: 10px; }
+    .unik-name-popup-email .unikname-list-content-step .unikname-item-step .email-input {
+      margin-bottom: 10px; }
+      .unik-name-popup-email .unikname-list-content-step .unikname-item-step .email-input label {
+        font-size: 16px;
+        text-align: center;
+        margin-bottom: 5px;
+        display: block; }
+      .unik-name-popup-email .unikname-list-content-step .unikname-item-step .email-input input {
+        font-size: 14px;
+        background-color: transparent;
+        padding-left: 15px; }
+    .unik-name-popup-email .unikname-list-content-step .unikname-item-step #the_champ_error, .unik-name-popup-email .unikname-list-content-step .unikname-item-step #unikname_the_champ_error {
+      color: #d40000;
+      margin: 8px 0;
+      font-size: 13px; }
+    .unik-name-popup-email .unikname-list-content-step .unikname-item-step .btn-button-action {
+      text-align: right;
+      margin-top: 20px; }
+      .unik-name-popup-email .unikname-list-content-step .unikname-item-step .btn-button-action button {
+        font-size: 14px;
+        text-transform: capitalize;
+        font-weight: normal;
+        padding: 9px 20px; }
+        .unik-name-popup-email .unikname-list-content-step .unikname-item-step .btn-button-action button:focus {
+          outline: none; }
+.unik-name-popup-email .unikname-session-navigation ul.unikname-list-step {
+  margin: auto;
+  text-align: center;
+  margin-bottom: 20px; }
+  .unik-name-popup-email .unikname-session-navigation ul.unikname-list-step li {
+    list-style: none;
+    display: inline-block; }
+    .unik-name-popup-email .unikname-session-navigation ul.unikname-list-step li span {
+      width: 15px;
+      height: 15px;
+      background-color: #949494;
+      display: inline-block;
+      border-radius: 100%;
+      margin-left: 5px;
+      margin-right: 5px; }
+
+#TB_window.loadding:after {
+  border: .1875rem solid #a1a6c4;
+  border-radius: 50%;
+  border-top: .1875rem solid #364084;
+  width: 2.5rem;
+  height: 2.5rem;
+  -webkit-animation: spin 2s linear infinite;
+  animation: spin 2s linear infinite;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -1.25rem;
+  margin-top: -1.25rem;
+  content: ""; }
+#TB_window.loadding:before {
+  content: "";
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: 1;
+  background: #a5a5a563;
+  left: 0;
+  top: 0; }
+#TB_window #TB_title {
+  height: 50px; }
+  #TB_window #TB_title #TB_ajaxWindowTitle {
+    text-align: center;
+    float: none;
+    padding: 10px 0;
+    width: 100%;
+    height: 50px; }
+  #TB_window #TB_title #TB_closeAjaxWindow {
+    display: none !important; }
+#TB_window #TB_ajaxContent {
+  width: 100% !important;
+  height: auto !important;
+  border: 0px;
+  padding: 0; }
+  #TB_window #TB_ajaxContent .unikname-content-ajax-container {
+    padding: 20px;
+    font-size: 13px; }
+
+@-webkit-keyframes spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg); }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg); } }
+@keyframes spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg); }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg); } }
+
+/*# sourceMappingURL=main.css.map */
